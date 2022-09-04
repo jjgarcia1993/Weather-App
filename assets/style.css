@@ -11,7 +11,11 @@
     height: 100vh;
     margin: 0;
     background-color: cadetblue;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    background-image: url(./imgs/landscape.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px, 1080px;
  }
 
  .card {
@@ -22,3 +26,4 @@
     max-width: 400px;
     margin: 1em;
  }
+
